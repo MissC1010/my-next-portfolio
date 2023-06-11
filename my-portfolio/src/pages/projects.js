@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Header from "../components/header";
-import styles from "../styles/Projects.module.css";
+import styles from "../styles/projects.module.css";
 
 export default function Projects() {
   return (
