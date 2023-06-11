@@ -1,0 +1,14 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+.about-title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+.text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #333;
+}
